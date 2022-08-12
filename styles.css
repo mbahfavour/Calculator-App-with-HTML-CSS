@@ -6,10 +6,9 @@
 }
 
 body {
-    /* display: flex;
-    justify-content: center; */
-    margin-top: 20px;
+    margin-top: 30px;
     margin-left: 10%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 
@@ -45,6 +44,7 @@ body {
     border-bottom-left-radius: 30px;
     border-bottom-right-radius: 30px;
     padding: 10px;
+    font-family: 'Cormorant Garamond', serif;
 }
 
 h3 {
