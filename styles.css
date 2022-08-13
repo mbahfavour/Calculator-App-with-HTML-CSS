@@ -58,6 +58,7 @@ button {
     font-size: 30px;
     background-color: #696969;
     color: white;
+    border: none;
 }
 
 .row1, .row2, .row3, .row4, .row5 {
